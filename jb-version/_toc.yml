@@ -1,11 +1,19 @@
 - file: 00-book
+
+- header: Get started
 - file: 01-preface
 - file: 02-introduction
 - file: 03-anatomy
+
+- header: Vectorization
 - file: 04-code-vectorization
 - file: 05-problem-vectorization
 - file: 06-custom-vectorization
 - file: 07-beyond-numpy
+
+- header: Conclusion
 - file: 08-conclusion
+
+- header: References
 - file: 09-quick-reference
 - file: 10-bibliography
