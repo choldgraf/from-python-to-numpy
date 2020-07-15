@@ -1,8 +1,14 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: From Python to Numpy
+author: Nicolas P. Rougier
+logo: data/cubes.png
 
-latex:
-  latex_documents:
-    targetname: book.tex
+
+
+# # Information about where the book exists on the web
+# repository:
+#   url                       : https://github.com/yourusername/yourbookrepo
+#
+# # Configure your Binder links, such as the URL of the BinderHub.
+# launch_buttons:
+#   binderhub_url             : https://mybinder.org
